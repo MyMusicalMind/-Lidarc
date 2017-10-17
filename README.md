@@ -15,7 +15,7 @@ Nos arquivos incluem as partituras e o makingoff da arte.<br>
 Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar Rig Pro 5
 <br><br>
 
-<img src="https://preview.ibb.co/n8gR9Q/cover_lidarc.jpg" width="400" height="300">
+<img src="https://preview.ibb.co/n8gR9Q/cover_lidarc.jpg" width="400" height="250">
 <br><br>
 <p>Faixas: </p>
 <p>1. Berith | <a href="https://www.youtube.com/watch?v=xruq063beks&index=7&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
