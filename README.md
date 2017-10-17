@@ -18,7 +18,7 @@ Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar R
 <img src="https://preview.ibb.co/n8gR9Q/cover_lidarc.jpg" width="400" height="300">
 <br><br>
 <p>Faixas: </p>
-<p>1. Berith</p>
-<p>2. Gardens of Babylon</p>
-<p>3. The King of Questions</p>
+<p>1. Berith | <a href="https://www.youtube.com/watch?v=xruq063beks&index=7&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>2. Gardens of Babylon | <a href="https://www.youtube.com/watch?v=GfSSS3wPvF8&index=6&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>3. The King of Questions | <a href="https://www.youtube.com/watch?v=eTfDxWuhqDM&index=4&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
 
